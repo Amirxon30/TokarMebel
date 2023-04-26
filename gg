@@ -1,0 +1,8 @@
+color: #b17429;
+
+
+transition: all 0.3s ease;
+
+.btn_holder a:hover{
+    background-image: linear-gradient(#e08311, #ca760e);
+}
